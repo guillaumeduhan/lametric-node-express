@@ -1,0 +1,28 @@
+{
+  "name": "lametric-node-express-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Guillaume Duhan",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumeduhan/lametric-node-express-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "boilerplate"
+  ],
+  "bugs": {
+    "url": "https://github.com/guillaumeduhan/lametric-node-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/guillaumeduhan/lametric-node-express-boilerplate#readme"
+}
