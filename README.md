@@ -1,8 +1,8 @@
-# LaMetric Node Express Boilerplate.
+# LaMetric Node Express Boilerplate
 
 ![LaMetric-Node-Express-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2020/01/lametric-node.png)
 
-Minimalist, simple boilerplate for Lametric with Node & Express.js.
+Minimalist, simple boilerplate for Lametric with Node & Express.js. Updated 2020.
 
 ## Installation
 
